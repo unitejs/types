@@ -1,0 +1,20 @@
+{
+  "name": "unitejs-types",
+  "version": "0.0.1",
+  "description": "UniteJS Runtime Types",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitejs/types.git"
+  },
+  "types": "./index.d.ts",
+  "keywords": [
+    "unite",
+    "unitejs"
+  ],
+  "author": "martyn@unitejs.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unitejs/types/issues"
+  },
+  "homepage": "https://github.com/unitejs/types#readme"
+}
