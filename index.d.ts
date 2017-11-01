@@ -5,6 +5,10 @@ interface Unite {
     configName: string;
     /** The packageVersion of the app. */
     packageVersion: string;
+    /** Is the build bundled. */
+    bundle: string;
+    /** Is the build minified. */
+    minify: string;
     /** UniteJS framework version */
     uniteVersion: string;
 }
