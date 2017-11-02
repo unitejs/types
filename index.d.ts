@@ -11,6 +11,10 @@ interface Unite {
     minify: boolean;
     /** Is the build pwa. */
     pwa: boolean;
+    /** Build date and time. */
+    buildDateTime: number;
+    /** Build number. */
+    buildNumber: string;
     /** UniteJS framework version */
     uniteVersion: string;
 }
